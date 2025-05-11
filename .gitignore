@@ -1,0 +1,52 @@
+# Compiled Sources #
+####################
+*.o
+*.so
+*.a
+*.dylib
+*.dll
+*.lib
+
+# Generated Files #
+###################
+xineramaGetCurrentMonitor
+
+# Swap Files #
+##############
+*.swp
+
+# OS Generated Files #
+######################
+*.DS_Store
+*.DS_Store?
+*._*
+*.Spotlight-V100
+*.Trashes
+ehthumbs.db
+Thumbs.db
+
+# CLion Folders #
+#################
+cmake-build-*
+.idea
+
+# CMake Build Folder #
+######################
+build/
+
+# CMake User Presets #
+######################
+CMakeUserPresets.json
+
+# Project Executables #
+#######################
+a.out
+
+# Folders #
+###########
+obj
+
+# Debug #
+#########
+*.dSYM
+*.pdb
